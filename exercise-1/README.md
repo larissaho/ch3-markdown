@@ -7,3 +7,5 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 See `complete` branch for an example.
 
 >"Diversity is being invited to the party; inclusion is being asked to dance" - Verna Myers
+
+From [here] (https://www.americanbar.org/groups/gpsolo/publications/gpsolo_ereport/2012/june_2012/diversity_invited_party_inclusion_asked_dance.html)
